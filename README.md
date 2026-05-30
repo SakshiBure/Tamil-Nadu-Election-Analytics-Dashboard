@@ -85,7 +85,7 @@ LinkedIn:
 www.linkedin.com/in/sakshi-bure-6729902b6
 
 GitHub:
-(Add GitHub Profile Link)
+[(Add GitHub Profile Link)](https://github.com/SakshiBure)
 
 ---
 
